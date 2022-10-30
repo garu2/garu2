@@ -24,8 +24,10 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 <br/>
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
-<a href='https://youtu.be/LQMoVAhzWSI' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/LQMoVAhzWSI/mqdefault.jpg' alt='Paginacion con la PokeAPI' />
+
+<a href='https://youtu.be/ermKvCAtiKA' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/ermKvCAtiKA/mqdefault.jpg' alt='Subscriptions Tracker - Suscripciones App - Streaming - React Js - JavaScript - ECMA6' />
 </a>
-
-
+<a href='https://youtu.be/asvy1Uz1fUs' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/asvy1Uz1fUs/mqdefault.jpg' alt='React - Cotizador de Prestamos - Loan Quoter - JavaScript - ECMA6' />
+</a>

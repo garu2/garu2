@@ -19,10 +19,8 @@
   ],
   "author": "",
   "dependencies": {
-    "node-fetch": "2.6.1",
-    "rss-parser": "3.12.0",
-    "twitch": "4.6.7",
-    "twitch-auth": "4.6.7"
+    "dotenv": "^16.0.3",
+    "node-fetch": "2.6.1"
   },
   "devDependencies": {
     "standard": "16.0.4"
