@@ -21,7 +21,7 @@ jobs:
     - run: npm install
       env:
         YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-    - run: echo "::add-mask::$YOUTUBE_API_KEY"
+    - run: echo "$YOUTUBE_API_KEY"
     - run: npm run update-readme
     - run: |
         git config user.name garu2
