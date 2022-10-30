@@ -22,9 +22,9 @@ jobs:
     - run: npm run update-readme
       env:
         YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-      - run: |
-          echo import certificate from secrets and regenerate the file
-          echo $YOUTUBE_API_KEY | base64 -d > $RUNNER_TEMP/my_production.keystore
+    - run: |
+        echo import certificate from secrets and regenerate the file
+        echo $YOUTUBE_API_KEY | base64 -d > $RUNNER_TEMP/my_production.keystore
     - run: |
         git config user.name garu2
         git config user.email elgafo.nakama@gmail.com
