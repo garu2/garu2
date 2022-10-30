@@ -22,7 +22,7 @@ jobs:
     - run: npm run update-readme
       env:
         YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-      run: |
+      - run: |
           echo import certificate from secrets and regenerate the file
           echo $YOUTUBE_API_KEY | base64 -d > $RUNNER_TEMP/my_production.keystore
     - run: |
