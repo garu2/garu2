@@ -12,7 +12,7 @@ const YOUTUBE_BLACKCODE_CHANNEL_ID = 'UC1RSlIlxEmpuN6PUplzXpNw'
 const BLACKCODE_REACT = 'PL9c-AU5X8n1T4y1Y3VG-maQYyASZEg-4C';
 
 const { YOUTUBE_API_KEY } = process.env;
-
+console.log("env: ", YOUTUBE_API_KEY);
 const getLatestYoutubeVideos = () =>
   fetch(
     `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${BLACKCODE_REACT}&maxResults=3&key=${YOUTUBE_API_KEY}`
