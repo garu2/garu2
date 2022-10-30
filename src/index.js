@@ -5,12 +5,13 @@ import Parser from 'rss-parser'
 import { PLACEHOLDERS, NUMBER_OF } from './constants.js'
 
 const YOUTUBE_BLACKCODE_CHANNEL_ID = 'UC1RSlIlxEmpuN6PUplzXpNw'
+const BLACKCODE_REACT = 'PL9c-AU5X8n1T4y1Y3VG-maQYyASZEg-4C';
 
 const {
     YOUTUBE_API_KEY
 } = process.env
 
-const getLatestYoutubeVideos = ({ channelId } = { channelId: YOUTUBE_BLACKCODE_CHANNEL_ID }) =>
+const getLatestYoutubeVideos = ({ channelId } = { channelId: BLACKCODE_REACT }) =>
   fetch(
     `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${channelId}&maxResults=${NUMBER_OF.VIDEOS}&key=${YOUTUBE_API_KEY}`
   )
