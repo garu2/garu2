@@ -22,7 +22,7 @@ jobs:
     - run: npm run update-readme
       env:
         YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-      run: echo "::add-mask::$YOUTUBE_API_KEY"
+    - run: echo "::add-mask::$YOUTUBE_API_KEY"
     - run: |
         git config user.name garu2
         git config user.email elgafo.nakama@gmail.com
