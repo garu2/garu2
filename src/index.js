@@ -15,7 +15,7 @@ const { YOUTUBE_API_KEY } = process.env;
 
 const getLatestYoutubeVideos = () =>
   fetch(
-    `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${BLACKCODE_REACT}&maxResults=2&key=${YOUTUBE_API_KEY}`
+    `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${BLACKCODE_REACT}&maxResults=3&key=${YOUTUBE_API_KEY}`
   )
     .then((res) => res.json())
     .then((videos) => videos.items)
