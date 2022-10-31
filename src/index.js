@@ -1,7 +1,5 @@
-import { log } from 'console'
-//require("dotenv").config()
-import * as dotenv from 'dotenv'
-dotenv.config()
+//import * as dotenv from 'dotenv'
+//dotenv.config()
 import { promises as fs } from 'fs'
 import fetch from 'node-fetch'
 //import Parser from 'rss-parser'
