@@ -8,10 +8,9 @@ on:
   
   schedule:
     - cron: "0 0 */2 * *"
-
+env:
+  YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
 jobs:
-  env:
-    YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
   build:
     runs-on: ubuntu-latest
 
