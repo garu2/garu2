@@ -25,12 +25,12 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
 
-<a href='https://youtu.be/ermKvCAtiKA' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/ermKvCAtiKA/mqdefault.jpg' alt='Subscriptions Tracker - Suscripciones App - Streaming - React Js - JavaScript - ECMA6' />
+<a href='https://youtu.be/LQMoVAhzWSI' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/LQMoVAhzWSI/mqdefault.jpg' alt='◀️▶️ Paginación - JavaScript - PokeApi - ECMA6' />
 </a>
-<a href='https://youtu.be/asvy1Uz1fUs' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/asvy1Uz1fUs/mqdefault.jpg' alt='React - Cotizador de Prestamos - Loan Quoter - JavaScript - ECMA6' />
+<a href='https://youtu.be/mhDQvSHv5RY' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/mhDQvSHv5RY/mqdefault.jpg' alt='🧐Buscador de Emojis - Searcher Emoji -React App - ECMA6' />
 </a>
-<a href='https://youtu.be/_z70JUP0mIQ' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/_z70JUP0mIQ/mqdefault.jpg' alt='Gif Expert App - Buscador de Gifs - React Js - JavaScript - ECMA6' />
+<a href='https://youtu.be/8tZWY7zVHLU' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/8tZWY7zVHLU/mqdefault.jpg' alt='🗨 Chat App - React & Firebase v9 - En  Tiempo Real - ECMA6' />
 </a>
