@@ -1,5 +1,5 @@
-//import * as dotenv from 'dotenv'
-//dotenv.config()
+import * as dotenv from 'dotenv'
+dotenv.config()
 import { promises as fs } from 'fs'
 import fetch from 'node-fetch'
 //import Parser from 'rss-parser'
@@ -11,6 +11,8 @@ const BLACKCODE_REACT = 'PL9c-AU5X8n1T4y1Y3VG-maQYyASZEg-4C';
 
 const { YOUTUBE_API_KEY } = process.env;
 console.log("env: ", YOUTUBE_API_KEY);
+console.log('VITE_INTERNAL', import.meta.env.YOUTUBE_API_KEY)
+
 const getLatestYoutubeVideos = () =>
   fetch(
     `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${BLACKCODE_REACT}&maxResults=3&key=${YOUTUBE_API_KEY}`
