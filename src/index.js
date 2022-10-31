@@ -6,16 +6,16 @@ import fetch from 'node-fetch'
 
 import { PLACEHOLDERS, NUMBER_OF } from './constants.js'
 
-const YOUTUBE_BLACKCODE_CHANNEL_ID = 'UC1RSlIlxEmpuN6PUplzXpNw'
+const CHANNEL_ID = 'UU1RSlIlxEmpuN6PUplzXpNw';
+                                      //UC1RSlIlxEmpuN6PUplzXpNw
 const BLACKCODE_REACT = 'PL9c-AU5X8n1T4y1Y3VG-maQYyASZEg-4C';
 
 const { YOUTUBE_API_KEY } = process.env;
-console.log("env: ", YOUTUBE_API_KEY);
-//console.log('VITE_INTERNAL', import.meta.env.YOUTUBE_API_KEY)
+//console.log("env: ", YOUTUBE_API_KEY);
 
 const getLatestYoutubeVideos = () =>
   fetch(
-    `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${BLACKCODE_REACT}&maxResults=3&key=${YOUTUBE_API_KEY}`
+    `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet,contentDetails&maxResults=3&playlistId=${CHANNEL_ID}&key=${YOUTUBE_API_KEY}`
   )
     .then((res) => res.json())
     .then((videos) => videos.items)
