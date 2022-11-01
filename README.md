@@ -1,7 +1,9 @@
 ## Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Gary AT](https://github.com/garu2) !!
 
 </h2>
-
+<p align="center">
+<img width="600" src="https://github.com/garu2/garu2/blob/main/assets/github-snake.svg" />
+</p>
 <hr/>
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
