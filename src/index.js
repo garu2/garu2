@@ -1,17 +1,12 @@
 import * as dotenv from 'dotenv'
-dotenv.config()
 import { promises as fs } from 'fs'
 import fetch from 'node-fetch'
-//import Parser from 'rss-parser'
 
-import { PLACEHOLDERS, NUMBER_OF } from './constants.js'
+dotenv.config();
 
 const CHANNEL_ID = 'UU1RSlIlxEmpuN6PUplzXpNw';
-                                      //UC1RSlIlxEmpuN6PUplzXpNw
-const BLACKCODE_REACT = 'PL9c-AU5X8n1T4y1Y3VG-maQYyASZEg-4C';
-
 const { YOUTUBE_API_KEY } = process.env;
-//console.log("env: ", YOUTUBE_API_KEY);
+const LATEST_YOUTUBE = '%{{latest_youtube}}%';
 
 const getLatestYoutubeVideos = () =>
   fetch(
@@ -43,7 +38,7 @@ const generateYoutubeHTML = ({ title, videoId }) => `
 
     // replace all placeholders with info
     const newMarkdown = template
-      .replace(PLACEHOLDERS.LATEST_YOUTUBE, latestYoutubeVideos)
+      .replace(LATEST_YOUTUBE, latestYoutubeVideos)
   
     await fs.writeFile('README.md', newMarkdown)
   })()
