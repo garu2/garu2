@@ -26,14 +26,14 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
 
+<a href='https://youtu.be/_OnkhUUqdCE' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/_OnkhUUqdCE/mqdefault.jpg' alt='Customizar la Barra de Scroll' />
+</a>
 <a href='https://youtu.be/vIHUmrV0vTU' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/vIHUmrV0vTU/mqdefault.jpg' alt='Como hacer un efecto de cristal' />
 </a>
 <a href='https://youtu.be/LQMoVAhzWSI' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/LQMoVAhzWSI/mqdefault.jpg' alt='◀️▶️ Paginación - JavaScript - PokeApi - ECMA6' />
-</a>
-<a href='https://youtu.be/mhDQvSHv5RY' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/mhDQvSHv5RY/mqdefault.jpg' alt='🧐Buscador de Emojis - Searcher Emoji -React App - ECMA6' />
 </a>
 
 <hr/>
