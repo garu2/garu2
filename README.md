@@ -26,14 +26,14 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
 
+<a href='https://youtu.be/xaoUWV_cVBk' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/xaoUWV_cVBk/mqdefault.jpg' alt='Cómo animar un Emoji ✋' />
+</a>
 <a href='https://youtu.be/OYqjMdaxDrI' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/OYqjMdaxDrI/mqdefault.jpg' alt='Ckeckbox con un Emoji 😀' />
 </a>
 <a href='https://youtu.be/_OnkhUUqdCE' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/_OnkhUUqdCE/mqdefault.jpg' alt='Customizar la Barra de Scroll' />
-</a>
-<a href='https://youtu.be/vIHUmrV0vTU' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/vIHUmrV0vTU/mqdefault.jpg' alt='Como hacer un efecto de cristal' />
 </a>
 
 <hr/>
