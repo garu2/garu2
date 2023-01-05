@@ -22,5 +22,5 @@ jobs:
           git config user.email "elgafo.nakama@gmail.com"
           git config user.name "garu2"
           git add .
-          git commit -m ":snake: Updates Snake Contribution Animation"
-          git push origin
+          git commit -m "[Update] Updates Snake Contribution Animation"
+          git push origin master
