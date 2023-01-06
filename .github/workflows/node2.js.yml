@@ -13,7 +13,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: garu2
           gif_out_path: assets/github-snake.gif
           svg_out_path: assets/github-snake.svg          
       # Commit the changes
@@ -21,6 +21,7 @@ jobs:
         run: |
           git config user.email "elgafo.nakama@gmail.com"
           git config user.name "garu2"
+          git status
           git add .
           git commit --allow-empty -m "[Update] Updates Snake Contribution Animation"
           git push origin
