@@ -2,9 +2,9 @@
 </h2>
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-  <p align="center">
-  <img width="600" src="https://github.com/garu2/garu2/blob/main/assets/github-snake.svg" />
-  </p>
+<p align="center">
+<img width="600" src="https://github.com/garu2/garu2/blob/main/assets/github-snake.svg" />
+</p>
 </details>
 <hr/>
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
