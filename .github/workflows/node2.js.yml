@@ -11,6 +11,7 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v2
       - name: Generate Snake
+        #uses: Platane/snk@master
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: garu2
