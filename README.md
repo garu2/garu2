@@ -28,14 +28,14 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
 
+<a href='https://youtu.be/7UcCYd6xw3Q' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/7UcCYd6xw3Q/mqdefault.jpg' alt='Efecto animado del borde de una Imagen 👍 😱🖼️' />
+</a>
 <a href='https://youtu.be/Ngapl2KmqpE' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/Ngapl2KmqpE/mqdefault.jpg' alt='🔄 Loader CSS 😲👌' />
 </a>
 <a href='https://youtu.be/jfRt288Hwno' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/jfRt288Hwno/mqdefault.jpg' alt='Resize en un TextArea ⌨' />
-</a>
-<a href='https://youtu.be/OHKJaWDSd-g' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/OHKJaWDSd-g/mqdefault.jpg' alt='Cómo  hacer un Spinner 💫 😲' />
 </a>
 
 <hr/>
