@@ -28,14 +28,14 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
 
+<a href='https://youtu.be/fC2tRT9ktQM' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/fC2tRT9ktQM/mqdefault.jpg' alt='Efecto Slide en un Card' />
+</a>
 <a href='https://youtu.be/z7wJVZKh2cQ' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/z7wJVZKh2cQ/mqdefault.jpg' alt='Heart Animation ❤️' />
 </a>
 <a href='https://youtu.be/qj-N9m3x4qc' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/qj-N9m3x4qc/mqdefault.jpg' alt='Hover Neon Boton 02 😲' />
-</a>
-<a href='https://youtu.be/P7dGzc8SwqY' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/P7dGzc8SwqY/mqdefault.jpg' alt='WhatsApp Clon React y Supabase Tutorial' />
 </a>
 
 <hr/>
