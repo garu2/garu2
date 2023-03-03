@@ -28,14 +28,14 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
 
+<a href='https://youtu.be/zOXD9amKrDg' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/zOXD9amKrDg/mqdefault.jpg' alt='JUEGO DE MEMORIA - ReactJs - Memotest - Memorama - ReactJs' />
+</a>
 <a href='https://youtu.be/DrUyStAfvj4' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/DrUyStAfvj4/mqdefault.jpg' alt='HTML Elements Details & Summary' />
 </a>
 <a href='https://youtu.be/4wGN_9tv1p8' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/4wGN_9tv1p8/mqdefault.jpg' alt='Preloader CSS' />
-</a>
-<a href='https://youtu.be/T5rKzlyqoFs' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/T5rKzlyqoFs/mqdefault.jpg' alt='Fondo Gradiente Animado 🙂🙃' />
 </a>
 
 <hr/>
