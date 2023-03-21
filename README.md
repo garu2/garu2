@@ -28,14 +28,14 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
 
+<a href='https://youtu.be/1Z5KChbgMDU' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/1Z5KChbgMDU/mqdefault.jpg' alt='Validar un Input' />
+</a>
 <a href='https://youtu.be/PXsHo-8u6XE' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/PXsHo-8u6XE/mqdefault.jpg' alt='Boton Gradient 🎉' />
 </a>
 <a href='https://youtu.be/ZJMX6OxQXvc' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/ZJMX6OxQXvc/mqdefault.jpg' alt='Texto con Efecto de Ola 🌊' />
-</a>
-<a href='https://youtu.be/VpD55P4xrzU' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/VpD55P4xrzU/mqdefault.jpg' alt='Imagen como fondo de un Texto' />
 </a>
 
 <hr/>
