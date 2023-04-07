@@ -28,14 +28,14 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
 
+<a href='https://youtu.be/CgFkaTxjk8U' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/CgFkaTxjk8U/mqdefault.jpg' alt='Como Mostrar un Atributo de una Etiqueta' />
+</a>
 <a href='https://youtu.be/bMen1ef_tBM' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/bMen1ef_tBM/mqdefault.jpg' alt='Rodear una Imagen con Texto 🍎 📑' />
 </a>
 <a href='https://youtu.be/N3riEipKJ5Q' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/N3riEipKJ5Q/mqdefault.jpg' alt='Título Custom Stroke 🪂' />
-</a>
-<a href='https://youtu.be/-V5_MN_V-8E' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/-V5_MN_V-8E/mqdefault.jpg' alt='Hover Scale Image 🖼️' />
 </a>
 
 <hr/>
