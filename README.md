@@ -28,14 +28,14 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
 
+<a href='https://youtu.be/KiYbhs_ZD_w' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/KiYbhs_ZD_w/mqdefault.jpg' alt='Efecto Zoom con Imágenes 🔍' />
+</a>
 <a href='https://youtu.be/CB9BVvTK5K4' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/CB9BVvTK5K4/mqdefault.jpg' alt='Autocomplete sin JavaScript' />
 </a>
 <a href='https://youtu.be/L7AFwNrnHeY' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/L7AFwNrnHeY/mqdefault.jpg' alt='🎲 REST - API Node.js | CRUD | MongoDB | Deploy Railway' />
-</a>
-<a href='https://youtu.be/CgFkaTxjk8U' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/CgFkaTxjk8U/mqdefault.jpg' alt='Como Mostrar un Atributo de una Etiqueta' />
 </a>
 
 <hr/>
