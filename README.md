@@ -28,14 +28,14 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
 
+<a href='https://youtu.be/HmXhrsAnSa8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/HmXhrsAnSa8/mqdefault.jpg' alt='Borde o Fondo Arcoíris Animado 🌈' />
+</a>
 <a href='https://youtu.be/WZC-ddjRQ44' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/WZC-ddjRQ44/mqdefault.jpg' alt='Border Gradient Animado' />
 </a>
 <a href='https://youtu.be/KiYbhs_ZD_w' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/KiYbhs_ZD_w/mqdefault.jpg' alt='Efecto Zoom con Imágenes 🔍' />
-</a>
-<a href='https://youtu.be/CB9BVvTK5K4' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/CB9BVvTK5K4/mqdefault.jpg' alt='Autocomplete sin JavaScript' />
 </a>
 
 <hr/>
