@@ -28,14 +28,14 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
 
+<a href='https://youtu.be/PqUWBZbJpZ4' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/PqUWBZbJpZ4/mqdefault.jpg' alt='Puntos suspensivos para texto ⚫️⚫️⚫️' />
+</a>
 <a href='https://youtu.be/L3CSJ9O83IM' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/L3CSJ9O83IM/mqdefault.jpg' alt='Como Añadir Estilos a HTML 🎨' />
 </a>
 <a href='https://youtu.be/ULJNptJuEws' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/ULJNptJuEws/mqdefault.jpg' alt='Pinteres Clone | ReactJs | Scroll Infinito | Masonry | Zustand' />
-</a>
-<a href='https://youtu.be/vpiA5wEFLS8' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/vpiA5wEFLS8/mqdefault.jpg' alt='Customizar Input Radio Formulario' />
 </a>
 
 <hr/>
