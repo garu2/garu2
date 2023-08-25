@@ -28,14 +28,14 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
 
+<a href='https://youtu.be/LJZxiXeR4l8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/LJZxiXeR4l8/mqdefault.jpg' alt='CSS Shorthand: Trucos Profesionales ✨' />
+</a>
 <a href='https://youtu.be/c7LqhB9CXGw' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/c7LqhB9CXGw/mqdefault.jpg' alt='Domina ReactJS: Tutorial para Crear ToDo List con ReactJS y Tailwind' />
 </a>
 <a href='https://youtu.be/T1Ug0JSGVbU' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/T1Ug0JSGVbU/mqdefault.jpg' alt='Mostrar y Ocultar Password 👀🔑' />
-</a>
-<a href='https://youtu.be/fq5AszNaAOA' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/fq5AszNaAOA/mqdefault.jpg' alt='Checkbox Personalizado en CSS: Aprende a Hacerlo en Solo 60 Segundos ⏱️' />
 </a>
 
 <hr/>
