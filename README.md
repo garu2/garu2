@@ -28,14 +28,14 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
 
+<a href='https://youtu.be/BuR_g6ROnaM' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/BuR_g6ROnaM/mqdefault.jpg' alt='🔥 ¡CSS Efecto Typing en 30s! 💻' />
+</a>
 <a href='https://youtu.be/KZPWYqzzQS8' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/KZPWYqzzQS8/mqdefault.jpg' alt='Efecto GLITCH con CSS: ¡Sorprendente! 🌀' />
 </a>
 <a href='https://youtu.be/LJZxiXeR4l8' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/LJZxiXeR4l8/mqdefault.jpg' alt='CSS Shorthand: Trucos Profesionales ✨' />
-</a>
-<a href='https://youtu.be/c7LqhB9CXGw' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/c7LqhB9CXGw/mqdefault.jpg' alt='Domina ReactJS: Tutorial para Crear ToDo List con ReactJS y Tailwind' />
 </a>
 
 <hr/>
