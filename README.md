@@ -1,5 +1,5 @@
+<!-- Title -->
 <h1 align="center" title="Just do it!">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 🅶🅰🆁🆈 🅰🆃</h1>
-</h2>
 
 <p align="center">
 <img width="600" src="https://github.com/garu2/garu2/blob/main/assets/github-snake.svg" />
