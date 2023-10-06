@@ -19,7 +19,9 @@ jobs:
           outputs: |
             assets/github-snake.svg
           #gif_out_path: assets/github-snake.gif
-          #svg_out_path: assets/github-snake.svg          
+          #svg_out_path: assets/github-snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # Commit the changes
       - name: Commit files
         run: |
