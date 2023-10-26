@@ -28,14 +28,14 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
 
+<a href='https://youtu.be/2iA1vAWlLns' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/2iA1vAWlLns/mqdefault.jpg' alt='¡Personaliza tus enlaces con CSS 🎨!' />
+</a>
 <a href='https://youtu.be/fXTdpWhbEIg' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/fXTdpWhbEIg/mqdefault.jpg' alt='🖱️ Mouse Follower JS en 1 min 💥' />
 </a>
 <a href='https://youtu.be/X6pBkvjLnqM' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/X6pBkvjLnqM/mqdefault.jpg' alt='🌟 Tarjetas Clickables en CSS: Fácil y Rápido 💻' />
-</a>
-<a href='https://youtu.be/CRIniB-AbqU' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/CRIniB-AbqU/mqdefault.jpg' alt='👨‍💻Hazlo Tú Mismo: Contador con JavaScript✨' />
 </a>
 
 <hr/>
