@@ -26,7 +26,7 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 </details>
 <hr/>
 
-### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/@blackcode2?sub_confirmation=1)
+### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
 
 <a href='https://youtu.be/bQ9SZ5TE_m4' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/bQ9SZ5TE_m4/mqdefault.jpg' alt='🎨 Tutorial CSS: ¡Hover Text Fácil!' />
@@ -39,7 +39,7 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 </a>
 
 <hr/>
-<a href="https://www.youtube.com/@blackcode2">
+<a href="https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw">
   <table align="right">
       <tr>
           <td>
