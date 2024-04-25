@@ -28,14 +28,14 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
 
+<a href='https://youtu.be/bDSSPuM7jmg' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/bDSSPuM7jmg/mqdefault.jpg' alt='🔥 Efecto Hover con CSS & JS' />
+</a>
 <a href='https://youtu.be/bQ9SZ5TE_m4' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/bQ9SZ5TE_m4/mqdefault.jpg' alt='🎨 Tutorial CSS: ¡Hover Text Fácil!' />
 </a>
 <a href='https://youtu.be/kyzkEFkKlGM' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/kyzkEFkKlGM/mqdefault.jpg' alt='Texto Animado con Degradado 🎨' />
-</a>
-<a href='https://youtu.be/V5HjMkoAwrY' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/V5HjMkoAwrY/mqdefault.jpg' alt='Copy Clipboard en 1 Minuto con JS! 🚀📄' />
 </a>
 
 <hr/>
