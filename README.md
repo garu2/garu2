@@ -28,14 +28,14 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
 
+<a href='https://youtu.be/2O7GPaXTEcg' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/2O7GPaXTEcg/mqdefault.jpg' alt='Crea tu App Remove Bg con Python + JS' />
+</a>
 <a href='https://youtu.be/nwwQbBW2dmw' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/nwwQbBW2dmw/mqdefault.jpg' alt='📄 Subir Archivos Input File 📂' />
 </a>
 <a href='https://youtu.be/Z60ffxAxnbI' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/Z60ffxAxnbI/mqdefault.jpg' alt='👨‍💻Botón de Descarga en HTML✨' />
-</a>
-<a href='https://youtu.be/bDSSPuM7jmg' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/bDSSPuM7jmg/mqdefault.jpg' alt='🔥 Efecto Hover con CSS & JS' />
 </a>
 
 <hr/>
