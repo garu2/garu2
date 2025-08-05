@@ -28,14 +28,14 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
 
+<a href='https://youtu.be/V1hZNaL33n8' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/V1hZNaL33n8/mqdefault.jpg' alt='ToDoList en React + Supabase: CRUD Completo desde Cero' />
+</a>
 <a href='https://youtu.be/_aCrOFAlAYM' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/_aCrOFAlAYM/mqdefault.jpg' alt='QR Code Geneator con ReactJS + PNG ⚛️' />
 </a>
 <a href='https://youtu.be/yDT4IOM2XYY' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/yDT4IOM2XYY/mqdefault.jpg' alt='RemoveBg Crea tu propia aplicación de eliminar  #frontend #removebackground #javascript #python' />
-</a>
-<a href='https://youtu.be/2O7GPaXTEcg' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/2O7GPaXTEcg/mqdefault.jpg' alt='Crea tu App Remove Bg con Python + JS' />
 </a>
 
 <hr/>
