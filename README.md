@@ -28,14 +28,14 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
 
+<a href='https://youtu.be/yiD1W3-XV6k' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/yiD1W3-XV6k/mqdefault.jpg' alt='Proyecto ReactJs - Compresor de Imágenes' />
+</a>
 <a href='https://youtu.be/Aneb9JPcXjk' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/Aneb9JPcXjk/mqdefault.jpg' alt='React + useState/useEffect: Simple Pomodoro' />
 </a>
 <a href='https://youtu.be/ddiJ9qU4iNA' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/ddiJ9qU4iNA/mqdefault.jpg' alt='Acortador de URLs con NodeJS  + React – Tutorial Paso a Paso 🚀' />
-</a>
-<a href='https://youtu.be/V1hZNaL33n8' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/V1hZNaL33n8/mqdefault.jpg' alt='ToDoList en React + Supabase: CRUD Completo desde Cero' />
 </a>
 
 <hr/>
