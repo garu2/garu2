@@ -28,14 +28,14 @@ I am a Web Developer who is passionate about writing code, solving problems, aut
 
 ### 📹 Últimos vídeos en mi [canal de Youtube](https://www.youtube.com/channel/UC1RSlIlxEmpuN6PUplzXpNw?sub_confirmation=1)
 
+<a href='https://youtu.be/DCggRoRy03U' target='_blank'>
+    <img width='30%' src='https://img.youtube.com/vi/DCggRoRy03U/mqdefault.jpg' alt='Pantheon's golden rule: code up, content down' />
+</a>
 <a href='https://youtu.be/ZG5leJA8GyE' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/ZG5leJA8GyE/mqdefault.jpg' alt='How to Deploy WordPress on Pantheon (Without Breaking Live)' />
 </a>
 <a href='https://youtu.be/YJSIlixSesM' target='_blank'>
     <img width='30%' src='https://img.youtube.com/vi/YJSIlixSesM/mqdefault.jpg' alt='Color Picker de Imagen - ReactJs Proyecto' />
-</a>
-<a href='https://youtu.be/yiD1W3-XV6k' target='_blank'>
-    <img width='30%' src='https://img.youtube.com/vi/yiD1W3-XV6k/mqdefault.jpg' alt='Proyecto ReactJs - Compresor de Imágenes' />
 </a>
 
 <hr/>
